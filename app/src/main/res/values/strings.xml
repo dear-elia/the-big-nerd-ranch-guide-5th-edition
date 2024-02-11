@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_russia">Moscow is a capital of Russia.</string>
+    <string name="question_korea">Seoul is a capital of North Korea</string>
+    <string name="question_china">Shanhai is a capital of China</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
